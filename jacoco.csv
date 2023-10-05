@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+homework2,edu.yonsei.csi3106.homework2,ElementDeserializer,0,32,0,2,0,8,0,3,0,2
+homework2,edu.yonsei.csi3106.homework2,Book,0,69,0,2,0,21,0,8,0,7
+homework2,edu.yonsei.csi3106.homework2,Library,12,177,4,18,5,45,4,12,0,5
+homework2,edu.yonsei.csi3106.homework2,Collection,0,127,1,15,0,38,1,15,0,8
+homework2,edu.yonsei.csi3106.homework2,ElementsExclusionStrategy,0,18,1,3,0,3,1,4,0,3
+homework2,edu.yonsei.csi3106.homework2,Element,0,10,0,0,0,4,0,3,0,3
