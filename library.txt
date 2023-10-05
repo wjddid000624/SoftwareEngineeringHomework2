@@ -1,0 +1,1 @@
+{"collections":[{"name":"Novel","elements":[{"name":"HarryPotter","elements":[{"title":"Harry Potter1","authors":["J.K.Rowling","히가시노 게이고"]},{"title":"Harry Potter2","authors":["J.K.Rowling","히가시노 게이고"]}]},{"title":"눈에 갇힌 외딴 산장에서","authors":["히가시노 게이고"]}]}]}
